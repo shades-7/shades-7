@@ -1,4 +1,4 @@
-![](/github.jpg)
+[<img src="/github.jpg" width="100%"]
 
 
 ### Hi there, I'm Saloni :four_leaf_clover:	
