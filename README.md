@@ -1,4 +1,4 @@
-<img src="/github.jpg" width="100%">
+<img src="https://github.com/shades-7/shades-7/blob/master/github.jpg" width="100%">
 
 
 ### Hi there, I'm Saloni :four_leaf_clover:	
