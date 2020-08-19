@@ -16,6 +16,8 @@ I'm prusing Master Degree in Mathematics and Computing with interest in Web Deve
 
 [<img align="left" alt="https://www.linkedin.com/in/saloni-gupta-452031159/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saloni-gupta-452031159/)
 [<img align="left" alt="https://www.instagram.com/shades_____7/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shades_____7/)
+[<img align="left" alt="mailto://salonimark7@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto://salonimark7@gmail.com)
+
 
 <br />
 
