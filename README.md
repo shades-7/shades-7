@@ -1,4 +1,4 @@
-<img src="https://github.com/shades-7/shades-7/blob/master/github.jpg" width="100%">
+![welcome little one! (1)](https://user-images.githubusercontent.com/58786336/95843979-01071a00-0d66-11eb-8907-531d4723a4ed.gif)
 
 
 ### Hi there, I'm Saloni :four_leaf_clover:	
