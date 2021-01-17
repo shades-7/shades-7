@@ -1,4 +1,5 @@
-![H](https://user-images.githubusercontent.com/58786336/95845599-01081980-0d68-11eb-92ce-90e3325946cf.gif)
+![Untitled design](https://user-images.githubusercontent.com/58786336/104851195-9e4f8c80-5919-11eb-96c3-a6674770fc94.gif)
+
 
 ### Hi there, I'm Saloni :four_leaf_clover:	
 
