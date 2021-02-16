@@ -4,11 +4,11 @@
 ### Hi there, I'm Saloni :four_leaf_clover:	
 
 ## About me
-I'm prusing Master Degree in Mathematics and Computing with interest in Web Deveploment,Automation and illustration
+I'm pursuing Master Degree in Mathematics and Computing with interest in Web Deveploment,Automation and illustration
 
 - 🔭 I’m currently working on a firebase authentication
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and cook
 
 
@@ -17,7 +17,7 @@ I'm prusing Master Degree in Mathematics and Computing with interest in Web Deve
 [<img align="left" alt="https://www.linkedin.com/in/saloni-gupta-452031159/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saloni-gupta-452031159/)
 [<img align="left" alt="https://www.instagram.com/shades_____7/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shades_____7/)
 [<img align="left" alt="mailto://salonimark7@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto://salonimark7@gmail.com)
-
+[<img align="left" alt="mailto://salonimark7@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Saloni60428339?s=09)
 
 <br />
 
