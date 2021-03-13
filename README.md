@@ -6,8 +6,8 @@
 ## About me
 I'm pursuing Master Degree in Mathematics and Computing with interest in Web Deveploment,Automation and illustration
 
-- 🔭 I’m currently working on a firebase authentication
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on being useful 😆
+- 🌱 I’m currently learning reactnative
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and cook
 
